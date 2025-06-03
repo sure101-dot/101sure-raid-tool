@@ -25,3 +25,21 @@
 3. Install requirements et lancement → Ouvrez le `start.bat` et attendez la fin.
 4. Config le `config.py` si vous voulez
 6. Entrer le token du Bot et l'id du serveur.
+
+### Obtenir le token du bot
+   - Ouvrir le [Discord Developer Portal](https://discord.com/developers/) et se rendre sur le site [Applications Tab](https://discord.com/developers/applications).
+   - Créer une nouvelle application.
+   - Téléchargez le bot Discord sur votre serveur
+      - Vous pouvez inviter le bot Discord dans le portail des développeurs sous OAuth2 > Générateur d'URL > **Bot et applications.commands** > **Administrateur**.
+      - Ou en insérant l'identifiant trouvé dans les informations générales dans le lien suivant : `https://discord.com/oauth2/authorize?client_id=HERE&permissions=8&scope=bot%20applications.commands`.
+   - Ouvrez l'onglet bot et activez **Toutes les intentions de la passerelle privilégiée** *(INTENT DE PRÉSENCE, INTENT DES MEMBRES DU SERVEUR et INTENT DU CONTENU DU MESSAGE)*.
+   - Copiez le token de l'application (réinitialisez-le auparavant).
+     
+   ### Obtenir l'identifiant du serveur ou de l'utilisateur
+   - Ouvrez vos paramètres d'utilisateur discord.
+   - Paramètres de l'application → Avancé.
+   - Activer le mode développeur.
+   - Vous pouvez maintenant copier le serveur ou l'identifiant de l'utilisateur en cliquant avec le bouton droit de la souris sur son profil et en sélectionnant « Copier le serveur/l'identifiant de l'utilisateur ».
+
+   - **Téléchargez-le pour découvrir toutes les fonctionnalités !**
+   - `De nouvelles amelioration arrive bientot.`
