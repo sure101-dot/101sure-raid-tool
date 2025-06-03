@@ -43,7 +43,7 @@ echo ===========================================
 echo.
 
 REM
-python 101sure.py
+python dist\101sure.py
 
 REM
 pause
