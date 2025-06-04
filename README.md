@@ -14,6 +14,11 @@
 - Requirements.txt
 - Une connexion Internet active
 
+- ## <a id="Update"></a>🛠 » Update
+```
+- Spam Channels : Inondez les channels utilisant le bot avec un message personnalisé ou un message embed.
+```
+
 ## <a id="Features"></a>🛠 » Features
 ```
 - Delete Serveur : Supprimer tous les channels et rôles du serveur
