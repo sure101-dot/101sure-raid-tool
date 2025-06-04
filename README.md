@@ -52,3 +52,4 @@
 
    - **Téléchargez-le pour découvrir toutes les fonctionnalités !**
    - `De nouvelles amelioration arrive bientot.`
+`PS: si il ya une erreur ouvrez start.bat via vsc et remplacer python 101sure.py par : python dist\101sure.py merci.`
