@@ -1,3 +1,5 @@
+`avant de commencer je tien a dire que le config.py se trouve dans le dossier 'dist'`
+
 <div align="center">
 
 # 101sure Raider V0.6.0 💻 
