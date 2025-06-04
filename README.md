@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 101sure Raider V0.6.0 💻 
+# 101sure Raider V0.6.1 💻 
 </div>
 
 ## <a id="Presentation"></a> » Presentation
