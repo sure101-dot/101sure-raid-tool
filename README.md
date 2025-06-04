@@ -1,5 +1,7 @@
 `avant de commencer je tien a dire que le config.py se trouve dans le dossier 'dist'`
 
+[Nouvelle Update](https://github.com/sure101-dot/101sure-raid-tool/releases/tag/0.6.1)
+
 <div align="center">
 
 # 101sure Raider V0.6.1 💻 
