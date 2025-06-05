@@ -1,6 +1,6 @@
-`avant de commencer je tien a dire que le config.py se trouve dans le dossier 'dist'`
-
-[Nouvelle Update](https://github.com/sure101-dot/101sure-raid-tool/releases/tag/0.6.1)
+<div align="center">
+   avant de commencer je tien a dire que le config.py se trouve dans le dossier 'dist'
+</div>
 
 <div align="center">
 
@@ -18,21 +18,22 @@
 
 - ## <a id="Update"></a>🛠 » Update
 ```
-- Spam Channels : Inondez les channels utilisant le bot avec un message personnalisé ou un message embed.
+- Create Roles : Créer des rôles avec un nom personnalisé
 ```
 
 ## <a id="Features"></a>🛠 » Features
 ```
 - Delete Serveur : Supprimer tous les channels et rôles du serveur
 - Create Channels : Créer des channels texte/vocal avec un nom personnalisé
+- Spam Channels : Inondez les channels utilisant le bot avec un message personnalisé ou un message embed.
 - Custom Bot Presence : Définissez vos options de présence dans le fichier de configuration
 ```
 
 ## <a id="Comment l'utiliser"></a>📜 » Comment l'utiliser
-1. Install Python (3.10+) et l'ajouter au PATH.
-2. Télécharger et extraire la dernière version de 101sure.
-3. Install requirements et lancement → Ouvrez le `start.bat` et attendez la fin.
-4. Config le `config.py` si vous voulez
+1. Install [Python](https://www.python.org/downloads/) (3.10+) et l'ajouter au PATH.
+2. Télécharger et extraire la dernière version de [101sure](https://github.com/sure101-dot/101sure-raid-tool/releases/tag/0.6.2).
+3. Install requirements et lancement → Ouvrez le [start.bat](https://github.com/sure101-dot/101sure-raid-tool/blob/main/start.bat) et attendez la fin.
+4. Config le [config.py](https://github.com/sure101-dot/101sure-raid-tool/blob/main/dist/config.py) si vous voulez
 6. Entrer le token du Bot et l'id du serveur.
 
 ### Obtenir le token du bot
